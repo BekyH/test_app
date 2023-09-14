@@ -57,7 +57,7 @@ class _HelloworldscreenState extends State<Helloworldscreen> {
         color: backgroundColor,
         child: const Center(
           child: Text(
-            'Hello, World!',
+            'Hello there',
             style: TextStyle(fontSize: 24,decoration: TextDecoration.none),
           ),
         ),
